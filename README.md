@@ -1,2 +1,2 @@
-# remix-wave
-My attempt to create a worthy Sonic Blaster sequel
+# Remix Wave
+My attempt to create a worthy Sonic Blaster sequel.
